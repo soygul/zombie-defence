@@ -4,6 +4,8 @@ zombie-defence
 Master repo for coordinating Earth's defence against the impending Zombie apocalypse.
 
 ```
+NUGGGGGH MUST INVADE THE EARTH                   
+                               \                 
                                 .....            
                                C C  /            
                               /<   /             
